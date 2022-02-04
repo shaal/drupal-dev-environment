@@ -2,6 +2,8 @@
 
 The fastest way to spin up Drupal development environments, powered by Lando.
 
+:warning: Gitpod and Codespaces deployment methods are still works-in-progress.
+
 ## Deploying
 
 ### Gitpod
